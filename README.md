@@ -17,4 +17,7 @@ Progress Bar for Completion Rate: You need to display the completion_rate as a p
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Create the react project.
-dashboard-clear.png
+
+Created the UI dashboard.
+
+![dashboard-clear](https://github.com/aasurjya/sound-track-dashboard/assets/44926849/a3e9d68b-2730-4af4-9297-3b558354d370)
